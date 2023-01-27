@@ -1,5 +1,5 @@
 import React from 'react';
-import Carousel from "../../../components/carousel/carousel";
+import Carousel from "../../../bridge/components/carousel/carousel";
 function FirstOffer({}) {
 
     const items = [
